@@ -5,9 +5,11 @@
 install.packages("readxl")
 install.packages("httr")
 install.packages("npsf")
+install.packages("utf8")
 library("httr")
 library("readxl")
 library("npsf")
+library("utf8")
 # Import Data Excel Into R From Github Olah Data Semarang (timbulwidodostp)
 github_link <- "https://github.com/timbulwidodostp/npsf/raw/main/npsf/npsf.xlsx"
 temp_file <- tempfile(fileext = ".xlsx")
