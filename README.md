@@ -1,6 +1,8 @@
 # npsf
 SFA (Stochastic Frontier Analysis Models) Use npsf (sf) With (In) R Software
 
+https://www.youtube.com/watch?v=slEYvd9CztM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
